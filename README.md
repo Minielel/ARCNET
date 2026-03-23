@@ -28,7 +28,7 @@ Local tool for automated detection and removal of spam comments on YouTube using
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/arcnet.git
+git clone https://github.com/Minielel/ARCNET.git
 cd arcnet
 ```
 
